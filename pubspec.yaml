@@ -1,0 +1,19 @@
+name: internet_connection_cs
+description: A Flutter package to check internet connectivity with custom host and timeout parameters.
+version: 1.0.0
+homepage: https://github.com/Cagdassrgl/internet_connection_cs
+
+environment:
+  sdk: ">=2.17.0 <4.0.0"
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
